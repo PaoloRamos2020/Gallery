@@ -1,5 +1,5 @@
 {
-  "name": "heroku-deploy-demo",
+  "name": "gallery",
   "version": "1.0.0",
   "description": "Demo app to test out deployment to heroku",
   "main": "app.js",
@@ -17,5 +17,17 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaoloRamos2020/Gallery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PaoloRamos2020/Gallery/issues"
+  },
+  "homepage": "https://github.com/PaoloRamos2020/Gallery#readme",
+  "engines": {
+    "node": "14.15.1"
   }
 }
